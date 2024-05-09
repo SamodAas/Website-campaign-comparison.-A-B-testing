@@ -5,7 +5,7 @@ It takes all users that are related to the campaigns in question and compares it
 H0 - There is no difference between different versions V1 and V2 between the campaigns
 H1 - One of the campaign versions produces higher conversion rate 
 
-[Link to Sheets with A/B test] (https://docs.google.com/spreadsheets/d/1sdi7b4QkRHP0JIMTyZRTE22SSPdW6jCv5EX1mnQiCLQ/edit?usp=sharing)
+[Link to Sheets with A/B test](https://docs.google.com/spreadsheets/d/1sdi7b4QkRHP0JIMTyZRTE22SSPdW6jCv5EX1mnQiCLQ/edit?usp=sharing)
 
 *Conclusions:*
 NewYear_V1 has higher conversion rate than NewYear_V2.  
